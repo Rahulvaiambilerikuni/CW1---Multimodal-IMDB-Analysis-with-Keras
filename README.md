@@ -108,7 +108,7 @@ The implemented model demonstrates strong classification performance across all 
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions are welcome. Please fork the repository and submit a pull request for any improvements or feature additions.
 
@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 * Fashion-MNIST Dataset
 * TensorFlow & Keras communities
